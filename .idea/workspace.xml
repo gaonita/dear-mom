@@ -1,11 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf9c492c-529a-4146-8120-396f11e54d16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intro/Intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/birthday-cake.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/cooking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/meditation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/travel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/walking.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ad5tBH78vYow7VVBKBO2MLJfbW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf9c492c-529a-4146-8120-396f11e54d16" name="Default Changelist" comment="" />
+      <created>1587052842109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587052842109</updated>
+      <workItem from="1587052843429" duration="26024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="175" key="#ESLint" timestamp="1587060839481">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="440" y="175" key="#ESLint/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587060839481" />
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587151592229">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.974@0.23.1680.974" timestamp="1587151592229" />
+    <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587052938503" />
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom" timestamp="1587063620977">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620977" />
+    <state width="1659" height="262" key="GridCell.Tab.0.center" timestamp="1587063620976">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620976" />
+    <state width="1659" height="262" key="GridCell.Tab.0.left" timestamp="1587063620975">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620975" />
+    <state width="1659" height="262" key="GridCell.Tab.0.right" timestamp="1587063620976">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="262" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620976" />
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1587127389467">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587127389467" />
   </component>
 </project>

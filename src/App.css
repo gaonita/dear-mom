@@ -1,38 +1,136 @@
 .App {
   text-align: center;
+  background-color: rgba(242, 242, 242, 0.74);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html {
+  scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button{
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+button:hover {
+  color: lightgreen;
+}
+button:focus {outline: 0;}
+
+a {
+  text-decoration: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.mainContainer {
+  display: flex;
+  background-color: rgba(250, 227, 217, 0.19);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 20px;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 80vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.titleContainer {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  /*border: solid 1px;*/
+  background-color: rgba(255, 255, 255, 0.59);
+  border-radius: 20px;
+}
+.mainTitle {
+ font-weight: bold;
+  font-size: 50px;
+  color: rgba(74, 197, 135, 0.93);
+  margin:20px;
+  padding:10px
+}
+
+
+
+.mainMenu {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
-.App-link {
-  color: #61dafb;
+.contentBox {
+  height: 350px;
+  width: 250px;
+  border-radius: 20px;
+  background-color: #85eeb6;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: space-around;
+  overflow: hidden;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.forOverlay {
+  position: relative;
+  width: 250px;
+  margin: 15px;
+  border-radius: 20px;
+
+}
+
+.forOverlay:hover .overlay{
+  transform: translateX(0%);
+  left: 0;
+}
+
+.overlay {
+  transform: translateX(100%);
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: rgba(49, 145, 101, 0.48);
+  overflow: hidden;
+  height: 350px;
+  width: 250px;
+  transition: .8s ease;
+  border-radius: 20px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+.contentTitle {
+  color:#fff;
+  font-size: 50px;
+  font-weight: bold;
 }
