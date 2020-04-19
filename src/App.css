@@ -37,7 +37,7 @@ a {
   border-radius: 20px;
   flex-wrap: wrap;
   width: 100vw;
-  height: 80vh;
+  /*height: 80vh;*/
 }
 
 .container {
