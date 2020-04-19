@@ -145,9 +145,9 @@ function App() {
 
                     </div>
                 </div>
-                <p style={{fontSize: '15px', alignSelf: 'flex-end'}}>2020.4 가온 올림</p>
-
             </div>
+            <p style={{fontSize: '15px', alignSelf: 'center'}}>2020.4 가온 올림</p>
+
         </div>
     );
 }
