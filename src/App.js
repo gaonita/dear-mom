@@ -20,6 +20,11 @@ function App() {
                     <img src={require('./assets/images/birthday-cake.gif')} alt={'icon'}/>
 
                     <p className={'mainTitle'}>무엇을 할까요?</p>
+                    <a href={"https://store-kr.uniqlo.com/display/displayShop.lecs?storeNo=83&siteNo=50706&displayNo=NQ1A02A09A53"}
+                       target={"blank"}
+                    >
+                        <p style={{color:'#ff5676', fontSize:30, marginLeft:20, fontWeight:'bold' }}>유니클로 X 마리메꼬</p>
+                    </a>
                 </div>
                 <div className={'container'}>
 
@@ -64,6 +69,11 @@ function App() {
                                      }}>
                                     <p className={'contentTitle'} style={{fontWeight: 'bold', color: '#ffffff'}}>요리</p>
                                     <div className={'overlay'} style={{background: 'rgba(74,196,207,0.89)'}}>
+
+                                        <a href={"https://www.youtube.com/channel/UCfxSyqDWlIY4eyBPW64lZ5w"}
+                                           target={"blank"}>
+                                            <p style={{color: '#fff', fontSize: 25, fontWeight: 'bold'}}>양희경의 딴집밥</p>
+                                        </a>
 
                                         <a href={"https://www.youtube.com/channel/UCyn-K7rZLXjGl7VXGweIlcA"}
                                            target={"blank"}>

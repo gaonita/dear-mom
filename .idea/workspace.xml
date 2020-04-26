@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf9c492c-529a-4146-8120-396f11e54d16" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587052842109</updated>
-      <workItem from="1587052843429" duration="28912000" />
+      <workItem from="1587052843429" duration="29219000" />
+      <workItem from="1587902791528" duration="621000" />
     </task>
     <servers />
   </component>
@@ -89,22 +90,22 @@
     </state>
     <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.974@0.23.1680.974" timestamp="1587151592229" />
     <state x="578" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587052938503" />
-    <state width="1659" height="262" key="GridCell.Tab.0.bottom" timestamp="1587063620977">
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom" timestamp="1587377559086">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620977" />
-    <state width="1659" height="262" key="GridCell.Tab.0.center" timestamp="1587063620976">
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587377559086" />
+    <state width="1659" height="262" key="GridCell.Tab.0.center" timestamp="1587377559083">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620976" />
-    <state width="1659" height="262" key="GridCell.Tab.0.left" timestamp="1587063620975">
+    <state width="1659" height="262" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587377559083" />
+    <state width="1659" height="262" key="GridCell.Tab.0.left" timestamp="1587377559081">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620975" />
-    <state width="1659" height="262" key="GridCell.Tab.0.right" timestamp="1587063620976">
+    <state width="1659" height="262" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587377559081" />
+    <state width="1659" height="262" key="GridCell.Tab.0.right" timestamp="1587377559084">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
-    <state width="1659" height="262" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587063620976" />
+    <state width="1659" height="262" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.974@0.23.1680.974" timestamp="1587377559084" />
     <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1587127389467">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
